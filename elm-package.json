@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "summary": "Simple Budget Calculator to keep shit straight.",
-  "repository": "https://github.com/stevengrimaldo/budget-calcuator",
+  "repository": "https://github.com/stevengrimaldo/budget-calculator",
   "license": "BSD3",
   "source-directories": ["."],
   "exposed-modules": [],
